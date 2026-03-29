@@ -1,0 +1,6 @@
+{
+  "appId": "com.wk.app",
+  "appName": "WK App",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
